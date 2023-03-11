@@ -1,11 +1,12 @@
 
-## 1.1 | Video Fundamentals
+# 1.1 | Video Fundamentals
 
 Before you will discover how to make your own videos, we will look at the fundamentals of every good video.
 
 Throughout the 7 steps, you will discover different ways to implement them.
 
 But you should be aware of the 3 most important fundamentals now:
+
 1) Hook
 2) Excitement
 3) Digestibility
@@ -13,6 +14,7 @@ But you should be aware of the 3 most important fundamentals now:
 We will look at each of them on the next slides.
 
 ## 1) Hook
+
 The hook is the beginning of your video.
 
 And it is the most important part of your video.
@@ -43,11 +45,12 @@ So, the first step of a good video is a good hook that grabs attention.
 
 The second step is keeping attention.
 
-
 ## 2) Excitement
+
 If you want to keep my attention, you can't bore me.
 
 You can't make me think that:
+
 - I've seen this before
 - I know what's going to happen
 - I don't think this is important for me
@@ -63,6 +66,7 @@ You're always just one swipe away from losing them.
 Therefore you CANNOT bore your viewers.
 
 You need to:
+
 - Cut out all pauses
 - Cut out all repetitions
 - Cut out everything that distracts from the main point of your video.
@@ -85,9 +89,11 @@ But it's important having those fundamentals in mind/heard first.
 Trust me, it's only one slide of boring-theory-(but very IMPORTANT)-fundamentals left until we go into ACTION!
 
 ## 3) Digestibility
+
 This is a very simple principle.
 
 It's about making your video easy to digest:
+
 - Easy to read subtitles
 - Good quality footage
 - Pleasant music-to-speech ration
@@ -109,6 +115,7 @@ If they realise that it will take effort to digest your video, they'll bounce.
 You can already lose someone within less than 1 second because of that.
 
 ## Time for ACTION
+
 Those were the 3 fundamentals that you will always find in good videos.
 
 1) Hook

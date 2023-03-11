@@ -376,12 +376,12 @@ Then 15.
 
 etc.
 
-## *It's ALL ABOUT YOUR VIDEO STATISTICS.  *
-That’s why making a new account won’t help you. 
+## *It's ALL ABOUT YOUR VIDEO STATISTICS.*
+That’s why making a new account won’t help you.
 
-You’re still shit at the game.  
+You’re still shit at the game.
 
-Coach will figure that out over time.  
+Coach will figure that out over time.
 
 You need to GET GOOD.
 

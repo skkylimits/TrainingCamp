@@ -36,6 +36,7 @@ And we also want to make sure we have any VPN's turned off as they can make us l
 - VPN turned off
 
 Create an account on the following platforms:
+
 - Instagram
 - YouTube
 - TikTok
